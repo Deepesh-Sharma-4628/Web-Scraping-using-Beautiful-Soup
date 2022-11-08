@@ -1,0 +1,570 @@
+,name,rating,reviews,type,hq,Average Salary,Latitude,Longitude
+0,TCS,3.9,(49.4k Reviews),Public,"Mumbai,Maharashtra ",584000,18.940170000000023,72.83489000000003
+1,Accenture,4.1,(32.2k Reviews),Public,Dublin ,407000,53.348070000000064,-6.248269999999934
+2,Cognizant,3.9,(29.5k Reviews),Private,Teaneck. New Jersey. ,402000,40.887230000000045,-74.01915999999994
+3,ICICI Bank,4.0,(34.8k Reviews),Public,"Mumbai,Maharashtra ",147000,18.940170000000023,72.83489000000003
+4,HDFC Bank,4.0,(39.7k Reviews),Public,"Mumbai,Maharashtra ",142000,18.940170000000023,72.83489000000003
+5,Wipro,3.9,(28.5k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",311000,12.966180000000065,77.58690000000007
+6,Infosys,3.9,(28.1k Reviews),Public,"Bengaluru/Bangalore,Karnataka ",348000,12.966180000000065,77.58690000000007
+7,Capgemini,3.9,(23.9k Reviews),Public,Paris ,284000,48.85717000000005,2.3414000000000215
+8,Tech Mahindra,3.7,(21.7k Reviews),Public,"Pune,Maharashtra ",186000,18.504210000000057,73.85286000000008
+9,Genpact,4.0,(21k Reviews),Public,"New York,New York ",130000,40.71455000000003,-74.00713999999994
+10,HCLTech,3.8,(18.4k Reviews),Public,Noida ,248000,28.533420000000035,77.38190000000003
+11,Amazon,4.3,(18.1k Reviews),Public,"Seattle,Washington ",107000,47.60357000000005,-122.32944999999995
+12,Axis Bank,3.9,(19k Reviews),Public,"Mumbai,Maharashtra ",113000,18.940170000000023,72.83489000000003
+13,IBM,4.2,(15.6k Reviews),Public,"Armonk,New York ",171000,41.12203000000005,-73.70923999999997
+14,Concentrix Corpo...,4.1,(15.3k Reviews),Public,"Fremont,California ",75000,37.551480000000026,-121.98329999999999
+15,Reliance jio,4.0,(15k Reviews),Public,"Navi Mumbai,Maharashtra ",74000,19.032750000000078,73.02960000000007
+16,Larsen & Toubro ...,4.1,(24.7k Reviews),Public,"Mumbai,Maharashtra ",74000,18.940170000000023,72.83489000000003
+17,Vodafone Idea,4.2,(13.9k Reviews),Public,"Gandhinagar,Gujrat ",62000,23.21667000000008,72.68333000000007
+18,HDB Financial Se...,4.0,(13.4k Reviews),Private,"Ahmedabad,Gujrat ",59000,23.02579000000003,72.58727000000005
+19,Teleperformance,3.6,(14.4k Reviews),Private,Paris ,59000,48.85717000000005,2.3414000000000215
+20,Kotak Mahindra B...,3.9,(13.7k Reviews),Public,"Mumbai,Maharashtra ",70000,18.940170000000023,72.83489000000003
+21,Reliance Industr...,4.1,(43.6k Reviews),Public,"Navi Mumbai,Maharashtra ",56000,19.032750000000078,73.02960000000007
+22,Bharti Airtel,4.1,(12.9k Reviews),Public,"Gurgaon/Gurugram,Haryana ",44000,28.477180000000033,77.06857000000008
+23,Deloitte,4.1,(10.3k Reviews),Private,"New York,New York ",105000,40.71455000000003,-74.00713999999994
+24,Reliance Retail,4.1,(15.5k Reviews),Private,"Navi Mumbai,Maharashtra ",46000,19.032750000000078,73.02960000000007
+25,Tata Motors,4.1,(12.4k Reviews),Public,"Pune,Maharashtra ",37000,18.504210000000057,73.85286000000008
+26,WNS,3.7,(7k Reviews),Private,"Mumbai,Maharashtra ",40000,18.940170000000023,72.83489000000003
+27,Mahindra & Mahin...,3.9,(39.5k Reviews),Public,"Mumbai,Maharashtra ",35000,18.940170000000023,72.83489000000003
+28,IndusInd Bank,3.8,(6.8k Reviews),Public,"Gurgaon/Gurugram,Haryana ",48000,28.477180000000033,77.06857000000008
+29,BYJU'S,3.5,(11.7k Reviews),Private,"Bangalore,Karnataka ",39000,12.966180000000065,77.58690000000007
+30,DXC Technology,3.9,(7.1k Reviews),Public,"Minato,Tokyo ",68000,35.658017080000036,139.7515459000001
+31,Ernst & Young,3.8,(6.2k Reviews),Private,London ,78000,51.507408360000056,-0.12769869299995662
+32,Hinduja Global S...,4.0,(6.2k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",23000,12.966180000000065,77.58690000000007
+33,Maruti Suzuki,4.2,(6k Reviews),Public,"New Delhi,Delhi ",24000,28.63095000000004,77.21721000000008
+34,Infosys BPM,4.0,(5.8k Reviews),"Bangalore/Bengaluru,Karnataka + 47 more",20 years old,40000,10.84967000000006,106.77036000000004
+35,HSBC,4.1,(5.9k Reviews),Private,"Pune,Maharashtra ",44000,18.504210000000057,73.85286000000008
+36,Ericsson,4.3,(5.5k Reviews),Private,"Stockholm,Stockholm County ",36000,59.33257000000003,18.06683000000004
+37,Bajaj Finserv,4.0,(5.3k Reviews),Public,"Pune,Maharashtra ",27000,18.504210000000057,73.85286000000008
+38,IDFC FIRST Bank,4.0,(5.2k Reviews),Public,"Mumbai,Maharashtra ",36000,18.940170000000023,72.83489000000003
+39,Conneqt Business...,3.7,(5.1k Reviews),Private,"Mumbai,Maharashtra ",19000,18.940170000000023,72.83489000000003
+40,Startek,3.4,(4.9k Reviews),Public,"Mumbai,Maharashtra ",17000,18.940170000000023,72.83489000000003
+41,Dr. Reddy's,4.2,(5k Reviews),Public,"Hyderabad/Secunderabad,Telangana ",20000,17.442620000000034,78.50195000000008
+42,Mphasis,3.8,(4.9k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",45000,12.966180000000065,77.58690000000007
+43,Cipla Pharmaceut...,4.1,(4.9k Reviews),Public,"Mumbai,Maharashtra ",21000,18.940170000000023,72.83489000000003
+44,Sutherland Globa...,3.9,(5.1k Reviews),Private,"Pittsford,New York ",21000,43.09137000000004,-77.51678999999996
+45,Jana Small Finan...,3.8,(4.7k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",18000,12.966180000000065,77.58690000000007
+46,Yes Bank,4.0,(4.6k Reviews),Public,"Mumbai,Maharashtra ",38000,18.940170000000023,72.83489000000003
+47,Asian Paints,4.2,(4.8k Reviews),Public,"Mumbai,Maharashtra ",19000,18.940170000000023,72.83489000000003
+48,ICICI Prudential...,4.1,(4.5k Reviews),Public,"Mumbai,Maharashtra ",24000,18.940170000000023,72.83489000000003
+49,NTT DATA,4.0,(4.7k Reviews),Private,"Chiyoda City,Tokyo ",43000,35.693937496000046,139.75370766100002
+50,HCL Group,3.8,(24.4k Reviews),Chennai + 68 more,50k-1 Lakh Employees (India),1000,20.007840000000044,74.70199000000008
+51,Udaan,4.1,(4.3k Reviews),Private,"Bangalore,Karnataka ",21000,12.966180000000065,77.58690000000007
+52,HDFC Life,4.1,(5.6k Reviews),Public,"Mumbai,Maharashtra ",27000,18.940170000000023,72.83489000000003
+53,Lupin,4.1,(4.3k Reviews),Public,"Mumbai,Maharashtra ",19000,18.940170000000023,72.83489000000003
+54,Indian Army,4.7,(4.2k Reviews),Public,"New Delhi,Delhi ",11000,28.63095000000004,77.21721000000008
+55,EXL Service,3.9,(5.3k Reviews),Private,"New York City,New York ",26000,40.71455000000003,-74.00713999999994
+56,L&T Infotech,3.9,(4.1k Reviews),Public,"Mumbai,Maharashtra ",57000,18.940170000000023,72.83489000000003
+57,PwC,3.8,(4.1k Reviews),Partnership,London ,51000,51.507408360000056,-0.12769869299995662
+58,Home Credit Fina...,4.2,(4k Reviews),Private,Gurugram ,11000,28.477180000000033,77.06857000000008
+59,UltraTech Cement,4.2,(4.6k Reviews),Public,"Mumbai,Maharashtra ",18000,18.940170000000023,72.83489000000003
+60,Bajaj Finance,4.1,(4.4k Reviews),Private,"Pune,Maharashtra ",22000,18.504210000000057,73.85286000000008
+61,ITC,3.9,(7.3k Reviews),Public,"Kolkata,West Bengal ",18000,22.57059000000004,88.37133000000006
+62,Hindustan Unilev...,4.3,(4.4k Reviews),Public,"Mumbai,Maharashtra ",19000,18.940170000000023,72.83489000000003
+63,Paytm,3.7,(4.4k Reviews),Public,Noida ,23000,28.533420000000035,77.38190000000003
+64,Ujjivan Small Fi...,4.1,(3.8k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",14000,12.966180000000065,77.58690000000007
+65,KPMG,3.8,(3.9k Reviews),Partnership,Bengaluru/Bangalore ,40000,12.966180000000065,77.58690000000007
+66,Mindtree,4.1,(3.7k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",58000,12.966180000000065,77.58690000000007
+67,OPPO,4.0,(3.9k Reviews),Public,"Dongguan,Guangdong ",14000,23.017970000000048,113.74866000000009
+68,Zydus Cadila,4.2,(4.7k Reviews),Public,"Ahmedabad, India ",15000,23.027780000000064,72.60025000000007
+69,IIFL,3.9,(3.6k Reviews),Public,"Mumbai,Maharashtra ",19000,18.940170000000023,72.83489000000003
+70,iEnergizer,4.1,(3.6k Reviews),Private,"Noida,Uttar Pradesh ",13000,28.533420000000035,77.38190000000003
+71,JP Morgan Chase,4.2,(3.6k Reviews),Private,"New York,New York ",48000,40.71455000000003,-74.00713999999994
+72,Shapoorji Pallon...,4.3,(6.8k Reviews),Private,"Mumbai,Maharashtra ",13000,18.940170000000023,72.83489000000003
+73,Shriram Transpor...,4.2,(3.9k Reviews),Public,"Mumbai,Maharashtra ",13000,18.940170000000023,72.83489000000003
+74,Sun Pharmaceutic...,4.1,(4.1k Reviews),Public,Mumbai ,17000,18.940170000000023,72.83489000000003
+75,Ashok Leyland,4.1,(3.6k Reviews),Public,"Chennai,Tamil Nadu ",16000,13.083750000000066,80.28256000000005
+76,Vivo,4.1,(3.5k Reviews),Private,"Gurgaon/Gurugram,Haryana ",13000,28.477180000000033,77.06857000000008
+77,Mahindra & Mahin...,4.3,(5k Reviews),Public,"Mumbai,Maharashtra ",12000,18.940170000000023,72.83489000000003
+78,Aurobindo Pharma,4.0,(3.7k Reviews),Public,"Hyderabad/Secunderabad,Telangana ",17000,17.442620000000034,78.50195000000008
+79,Wells Fargo Indi...,4.2,(3.4k Reviews),Public,"San Francisco,California ",32000,37.777120000000025,-122.41966999999994
+80,Bandhan Bank,3.9,(3.5k Reviews),Public,"Kolkata,West Bengal ",19000,22.57059000000004,88.37133000000006
+81,Fidelity Nationa...,4.1,(3.5k Reviews),Private,"Jacksonville,Florida ",29000,30.331470000000024,-81.65621999999996
+82,Delhivery,4.2,(3.7k Reviews),Private,"Delhi,NCT ",14000,28.651950000000056,77.23149000000006
+83,Hewlett-Packard ...,4.3,(3.7k Reviews),Private,"Houston,Texas ",26000,29.760780000000068,-95.36951999999997
+84,Apollo Hospitals,4.1,(5.5k Reviews),Public,"San Francisco,California ",13000,37.777120000000025,-122.41966999999994
+85,Intelenet Global...,3.7,(3.3k Reviews),Private,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+86,Siemens,4.2,(4.9k Reviews),Public,"Munich,Bavaria ",22000,48.13641000000007,11.577540000000056
+87,Reliance Communi...,4.0,(4k Reviews),Public,"Navi Mumbai,Maharashtra ",13000,19.032750000000078,73.02960000000007
+88,Nokia,4.2,(4.6k Reviews),Private,"Espoo,Southern Finland ",22000,60.20678000000004,24.65578000000005
+89,Future Group,4.2,(10.3k Reviews),Private,"Mumbai,Maharashtra ",12000,18.940170000000023,72.83489000000003
+90,eClerx,3.6,(3.2k Reviews),Public,"Mumbai,Maharashtra ",19000,18.940170000000023,72.83489000000003
+91,AU Small Finance...,4.0,(4.3k Reviews),Private,"Jaipur,Rajasthan ",16000,26.925890000000038,75.80676000000005
+92,Max Life Insuran...,4.2,(3.2k Reviews),JV,"Gurgaon/Gurugram,Haryana ",17000,28.477180000000033,77.06857000000008
+93,Oracle,3.9,(4k Reviews),Public,"Austin,Texas ",43000,30.26759000000004,-97.74298999999996
+94,First Source,3.9,(3.1k Reviews),Public,"Mumbai,Maharashtra ",15000,18.940170000000023,72.83489000000003
+95,Hero MotoCorp,4.2,(3.2k Reviews),Public,"Gurgaon/Gurugram,Haryana ",12000,28.477180000000033,77.06857000000008
+96,TATA Steel,4.1,(4.8k Reviews),Public,"Mumbai,Maharashtra ",15000,18.940170000000023,72.83489000000003
+97,TVS Motor,4.1,(4.5k Reviews),Public,"Chennai,Tamil Nadu ",12000,13.083750000000066,80.28256000000005
+98,JSW Steel,3.9,(3.3k Reviews),Public,"Mumbai,Maharashtra ",18000,18.940170000000023,72.83489000000003
+99,Hexaware Technol...,3.7,(3.1k Reviews),Public,"Mumbai,Maharashtra ",32000,18.940170000000023,72.83489000000003
+100,Tata Projects,4.2,(3.1k Reviews),Public,"Mumbai,Maharashtra ",17000,18.940170000000023,72.83489000000003
+101,Oyo Rooms,3.5,(3.2k Reviews),Private,"Gurgaon,Haryana ",22000,28.477180000000033,77.06857000000008
+102,JLL,4.3,(3k Reviews),Private,"Mumbai,Maharashtra ",15000,18.940170000000023,72.83489000000003
+103,Cyient,3.7,(3k Reviews),Public,"Hyderabad/Secunderabad,Telangana ",19000,17.442620000000034,78.50195000000008
+104,Wipro BPS,3.8,(3k Reviews),Bengaluru + 36 more,22 years old,12000,9.49947000000003,76.34228000000007
+105,Hyundai Motor,4.2,(4k Reviews),Private,Seoul ,11000,37.56600000000003,126.97840000000008
+106,JustDial,3.5,(2.9k Reviews),Public,"Mumbai,Maharashtra ",14000,18.940170000000023,72.83489000000003
+107,Bosch,4.2,(6.3k Reviews),Public,"Gerlingen,Baden-Wuerttemberg ",15000,48.80006000000003,9.062880000000064
+108,Quess,3.9,(9k Reviews),Public,Bangalore ,18000,12.966180000000065,77.58690000000007
+109,Bajaj Allianz Li...,4.1,(2.9k Reviews),Private,Pune ,18000,18.504210000000057,73.85286000000008
+110,Atos Syntel,3.7,(4.6k Reviews),Private,"Troy,Michigan ",26000,42.562380000000076,-83.15417999999994
+111,Megha Engineerin...,4.2,(2.7k Reviews),Private,"Hyderabad/Secunderabad,Telangana ",13000,17.442620000000034,78.50195000000008
+112,Samsung,4.0,(7.6k Reviews),Public,Seoul ,26000,37.56600000000003,126.97840000000008
+113,L&T Construction,4.2,(3.6k Reviews),Public,Chennai ,12000,13.083750000000066,80.28256000000005
+114,Manappuram Finan...,4.0,(3.4k Reviews),Public,"Thrissur/Trichur,Kerala ",8000,10.510820000000024,76.21121000000005
+115,Omega Healthcare,3.8,(2.7k Reviews),Private,Florida ,13000,28.56604489500006,-81.68864878999995
+116,D Mart,4.0,(2.6k Reviews),Private,"Mumbai,Maharashtra ",11000,18.940170000000023,72.83489000000003
+117,BNY Mellon,4.2,(2.6k Reviews),Private,"New York City,New York ",21000,40.71455000000003,-74.00713999999994
+118,SBI Cards & Paym...,3.8,(2.6k Reviews),Government,"Gurgaon/Gurugram,Haryana ",16000,28.477180000000033,77.06857000000008
+119,Viatris,4.3,(2.6k Reviews),"Canonsburg,Pennsylvania + 64 more",61 years old,11000,9.49947000000003,76.34228000000007
+120,Fullerton India,4.2,(2.6k Reviews),Private,Mumbai ,10000,18.940170000000023,72.83489000000003
+121,Cummins,4.3,(3.2k Reviews),"Columbus,Indiana + 85 more",60 years old,11000,9.49947000000003,76.34228000000007
+122,Aditya Birla Fas...,4.2,(3.3k Reviews),Private,Mumbai ,10000,18.940170000000023,72.83489000000003
+123,IQVIA,4.2,(2.6k Reviews),Partnership,Durham ,20000,35.99544000000003,-78.89649999999995
+124,Godrej & Boyce M...,3.9,(2.9k Reviews),Private,"Mumbai,Maharashtra ",15000,18.940170000000023,72.83489000000003
+125,UnitedHealth,4.1,(4.6k Reviews),Private,"Minnetonka,Minnesota ",19000,44.94007000000005,-93.46738999999997
+126,CBRE,4.3,(2.5k Reviews),Private,"Los Angeles,California ",12000,34.053570000000036,-118.24544999999995
+127,State Bank of In...,3.8,(5k Reviews),"Mumbai,Maharashtra + 348 more",216 years old,10000,,
+128,Nagarro,4.5,(2.5k Reviews),Private,"Munich,Bavaria ",15000,48.13641000000007,11.577540000000056
+129,ICICI Lombard Ge...,3.9,(2.4k Reviews),Public,"Mumbai,Maharashtra ",14000,18.940170000000023,72.83489000000003
+130,JBM Group,4.0,(3k Reviews),Public,"Gurgaon/Gurugram,Haryana ",10000,28.477180000000033,77.06857000000008
+131,Equitas Small Fi...,4.2,(2.4k Reviews),Private,"Chennai,Tamil Nadu ",11000,13.083750000000066,80.28256000000005
+132,Royal Enfield,4.2,(2.4k Reviews),Private,"Gurgaon/Gurugram,Haryana ",12000,28.477180000000033,77.06857000000008
+133,Nagarjuna Constr...,4.1,(2.5k Reviews),Public,"Hyderabad/Secunderabad,Telangana ",10000,17.442620000000034,78.50195000000008
+134,Dominos Pizza,4.1,(2.4k Reviews),Public,"Ypsilanti,Michigan ",4000,42.24081000000007,-83.61308999999994
+135,Amdocs,4.1,(2.4k Reviews),Private,"Chesterfield,Missouri ",27000,38.654030000000034,-90.55200999999994
+136,Bajaj Auto,4.0,(2.4k Reviews),Public,"Pune,Maharashtra ",9000,18.504210000000057,73.85286000000008
+137,Schneider Electr...,4.2,(3.9k Reviews),Private,Paris ,15000,48.85717000000005,2.3414000000000215
+138,Ford Motor,4.5,(2.8k Reviews),Public,"Dearborn,Michigan ",12000,42.32207000000005,-83.17628999999994
+139,Bosch Global Sof...,4.2,(2.4k Reviews),Private,Gerlingen ,24000,48.80006000000003,9.062880000000064
+140,Tata Communicati...,4.2,(3.2k Reviews),Public,"Mumbai,Maharashtra ",17000,18.940170000000023,72.83489000000003
+141,Axis Direct,4.0,(2.4k Reviews),Private,"San Mateo,California ",8000,37.54704000000004,-122.31484999999998
+142,BigBasket,4.1,(2.4k Reviews),Private,"Bangalore,Karnataka ",11000,12.966180000000065,77.58690000000007
+143,UST,4.0,(2.4k Reviews),Private,"Aliso Viejo,California ",27000,33.56964000000005,-117.72681999999998
+144,Indiamart Interm...,3.7,(2.4k Reviews),Private,"Noida,Uttar Pradesh ",13000,28.533420000000035,77.38190000000003
+145,Wipro Infotech,4.0,(2.4k Reviews),Private,Bangalore ,4000,12.966180000000065,77.58690000000007
+146,Muthoot Fincorp,4.0,(2.3k Reviews),Private,"Trivandrum/Thiruvananthapuram,Kerala ",8000,8.505190000000027,76.95139000000006
+147,Ecom Express,4.2,(2.3k Reviews),Private,"Gurgaon,Haryana ",8000,28.477180000000033,77.06857000000008
+148,Dell,4.2,(3.7k Reviews),Private,"Round Rock,Texas ",21000,30.509040000000027,-97.67721999999998
+149,Wipro Consumer ...,3.9,(3k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",2000,12.966180000000065,77.58690000000007
+150,SBI Life Insuran...,3.8,(2.3k Reviews),Government,"Mumbai,Maharashtra ",12000,18.940170000000023,72.83489000000003
+151,John Deere,4.4,(2.5k Reviews),Private,"Moline,Illinois ",10000,41.49177000000003,-90.49036999999998
+152,Whitehat jr,3.8,(2.3k Reviews),Private,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+153,Flex,4.1,(2.3k Reviews),Private,San Jose ,15000,37.33865000000003,-121.88541999999995
+154,Hetero Drugs,3.9,(2.6k Reviews),Private,"Hyderabad/Secunderabad,Telangana ",10000,17.442620000000034,78.50195000000008
+155,LG Electronics,4.0,(2.3k Reviews),Public,"Seoul,Seoul ",9000,37.56600000000003,126.97840000000008
+156,L&T Financial Se...,4.0,(2.3k Reviews),Public,"Mumbai,Maharashtra ",10000,18.940170000000023,72.83489000000003
+157,Motherson Sumi S...,3.8,(3.7k Reviews),Public,"Noida,Uttar Pradesh ",10000,28.533420000000035,77.38190000000003
+158,Sodexo,4.1,(2.4k Reviews),Private,Issy Les Moulineaux ,8000,48.82123000000007,2.251610000000028
+159,KEC Internationa...,4.1,(2.2k Reviews),Public,"Mumbai,Maharashtra ",9000,18.940170000000023,72.83489000000003
+160,Cholamandalam In...,4.2,(2.3k Reviews),Private,"Chennai,Tamil Nadu ",10000,13.083750000000066,80.28256000000005
+161,GlobalLogic,4.0,(2.2k Reviews),Private,"San Jose,California ",20000,37.33865000000003,-121.88541999999995
+162,Abbott Healthcar...,4.1,(4.3k Reviews),Public,"Illinois City,Illinois ",10000,41.39724000000007,-90.89952999999997
+163,Muthoot Finance,3.6,(2.2k Reviews),Public,"Kochi/Cochin,Kerala ",13000,9.936020000000042,76.26141000000007
+164,Thermax,4.2,(2.4k Reviews),Public,"Pune,Maharashtra ",10000,18.504210000000057,73.85286000000008
+165,Subros,4.0,(2.2k Reviews),Public,"Noida,Uttar Pradesh ",9000,28.533420000000035,77.38190000000003
+166,Intas Pharmaceut...,4.3,(2.2k Reviews),Private,"Ahmedabad,Gujrat ",11000,23.02579000000003,72.58727000000005
+167,Capgemini Techno...,4.1,(2.1k Reviews),Bengaluru/Bangalore + 23 more,,1000,18.776095735718457,100.77393496801147
+168,Hindustan Coca C...,4.4,(2.1k Reviews),Private,Bangalore ,6000,12.966180000000065,77.58690000000007
+169,Virtusa Consulti...,3.8,(2.2k Reviews),Private,"Southborough,Massachusetts ",31000,42.29042000000004,-71.52649999999994
+170,Automatic Data P...,4.2,(2.1k Reviews),New Jersey + 10 more,73 years old,15000,9.49947000000003,76.34228000000007
+171,Optum,4.1,(2.1k Reviews),Private,Minnesota ,16000,46.34885576600004,-94.20079058299996
+172,Simplex Infrastr...,3.7,(2.3k Reviews),Public,"Kolkata,West Bengal ",7000,22.57059000000004,88.37133000000006
+173,Swiggy,4.1,(2.3k Reviews),Private,"Bangalore,Karnataka ",15000,12.966180000000065,77.58690000000007
+174,VE Commercial Ve...,4.0,(2.1k Reviews),Private,"Gurgaon/Gurugram,Haryana ",9000,28.477180000000033,77.06857000000008
+175,Varun Beverages,4.0,(2.1k Reviews),Public,"Gurgaon/Gurugram,Haryana ",8000,28.477180000000033,77.06857000000008
+176,Atos,3.9,(7.9k Reviews),Private,"Vilnius,Vilniaus Apskritis ",22000,54.69062000000008,25.269800000000032
+177,Wipro Enterprise...,3.9,(5.1k Reviews),Bangalore + 65 more,77 years old,4000,9.49947000000003,76.34228000000007
+178,Macleods Pharmac...,3.9,(2.1k Reviews),Public,"Mumbai,Maharashtra ",11000,18.940170000000023,72.83489000000003
+179,Muthoot Group,3.6,(4.7k Reviews),Public,"Wedel,Schleswig-holstein ",4000,53.58185000000003,9.701370000000054
+180,NatWest Group,4.1,(2.2k Reviews),Government,Gurgaon/Gurugram ,14000,28.477180000000033,77.06857000000008
+181,Gati kwe,4.2,(2k Reviews),Private,"Hyderabad/Secunderabad,Telangana ",5000,17.442620000000034,78.50195000000008
+182,Indian Air Force,4.6,(2k Reviews),Private,"New Delhi,Delhi ",4000,28.63095000000004,77.21721000000008
+183,Alembic Pharmace...,4.1,(2k Reviews),Public,"Vadodara/Baroda,Gujrat ",11000,22.299410000000023,73.20812000000006
+184,American Express,4.4,(2k Reviews),Private,"New York City,New York ",15000,40.71455000000003,-74.00713999999994
+185,Randstad,4.1,(2.1k Reviews),Private,"Chennai,Tamil Nadu ",9000,13.083750000000066,80.28256000000005
+186,Shoppers Stop,4.3,(2k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+187,Arvind Group,4.1,(2.4k Reviews),Public,"Ahmedabad,Gujrat ",7000,23.02579000000003,72.58727000000005
+188,CMS IT Services,3.2,(2k Reviews),Private,"Bangalore,Karnataka ",10000,12.966180000000065,77.58690000000007
+189,Cgi Group,4.2,(2k Reviews),Private,"Montreal,Quebec ",28000,45.508867000000066,-73.55424199999999
+190,Bel,4.2,(2k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",8000,12.966180000000065,77.58690000000007
+191,Alkem Laboratori...,4.0,(2k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+192,Glenmark Pharmac...,4.1,(2k Reviews),Public,"Mumbai,Maharashtra ",9000,18.940170000000023,72.83489000000003
+193,ABB Group,4.1,(2k Reviews),Public,Zurich ,12000,47.37707000000006,8.539560000000051
+194,Suzlon Group,4.1,(2k Reviews),Public,"Pune,Maharashtra ",7000,18.504210000000057,73.85286000000008
+195,DTDC Express,3.9,(2k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",7000,12.966180000000065,77.58690000000007
+196,Deutsche Bank,4.2,(2.2k Reviews),Private,Frankfurt ,19000,50.11208000000005,8.683410000000038
+197,Pidilite Industr...,4.3,(2.1k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+198,Honda Motorcycle...,4.2,(2k Reviews),Private,"Gurgaon/Gurugram,Haryana ",9000,28.477180000000033,77.06857000000008
+199,Piramal Capital ...,4.3,(1.9k Reviews),Mumbai + 223 more,4 years old,9000,9.49947000000003,76.34228000000007
+200,McDonald's,4.3,(1.9k Reviews),Private,"Chicago,Illinois ",5000,41.884250000000065,-87.63244999999995
+201,Havells,4.2,(2.1k Reviews),Public,"Noida,Uttar Pradesh ",11000,28.533420000000035,77.38190000000003
+202,DCB Bank,4.0,(1.9k Reviews),Private,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+203,Ipca Laboratorie...,4.1,(1.9k Reviews),Public,"Mumbai,Maharashtra ",9000,18.940170000000023,72.83489000000003
+204,Reliance Nippon ...,3.9,(1.9k Reviews),Private,"Mumbai,Maharashtra ",9000,18.940170000000023,72.83489000000003
+205,CARS24,3.7,(1.9k Reviews),Private,"Gurgaon,Haryana ",9000,28.477180000000033,77.06857000000008
+206,Standard Charter...,4.2,(5.7k Reviews),Private,London ,19000,51.507408360000056,-0.12769869299995662
+207,Lava Internation...,4.2,(1.9k Reviews),Public,"Noida,Uttar Pradesh ",4000,28.533420000000035,77.38190000000003
+208,L&T Technology S...,3.4,(1.9k Reviews),Public,"Vadodara/Baroda,Gujarat ",21000,22.30946000000006,73.17988000000008
+209,Indian Oil Corpo...,4.4,(2.1k Reviews),Private,"Delhi/NCR,Delhi ",6000,28.63409000000007,77.21693000000005
+210,Hindalco Industr...,4.3,(2k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+211,Bajaj Electrical...,4.1,(1.9k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+212,24/7 Customer,3.6,(1.9k Reviews),Private,"San Jose,California ",12000,37.33865000000003,-121.88541999999995
+213,Conduent,3.6,(1.9k Reviews),Private,"Florham Park,New Jersey ",15000,40.78520000000003,-74.39448999999996
+214,Maersk,4.4,(2.3k Reviews),Private,Copenhagen ,12000,55.67567000000008,12.567560000000071
+215,MRF Tyres,3.6,(2k Reviews),Public,"Chennai,Tamil Nadu ",9000,13.083750000000066,80.28256000000005
+216,KocharTech,4.4,(1.8k Reviews),Private,"Gurgaon/Gurugram,Haryana ",2000,28.477180000000033,77.06857000000008
+217,Titan Company,4.4,(2.6k Reviews),Public,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+218,Team Lease,4.0,(1.8k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",11000,12.966180000000065,77.58690000000007
+219,Vishal Mega Mart,3.9,(1.8k Reviews),Private,"Ahmedabad,Gujrat ",7000,23.02579000000003,72.58727000000005
+220,Future Retail,4.2,(4.5k Reviews),Public,"San Francisco,California ",7000,37.777120000000025,-122.41966999999994
+221,Jindal Steel and...,4.0,(2.2k Reviews),Private,"Delhi/NCR,New Delhi ",9000,28.63095000000004,77.21721000000008
+222,Huawei Technolog...,3.8,(1.8k Reviews),Private,"Gurgaon/Gurugram,Haryana ",10000,28.477180000000033,77.06857000000008
+223,Bank of America,4.4,(3k Reviews),Private,Charlotte ,17000,35.222860000000026,-80.83795999999995
+224,Tractors and Far...,4.1,(1.8k Reviews),Public,"Chennai,Tamil Nadu ",7000,13.083750000000066,80.28256000000005
+225,Torrent Pharmace...,4.0,(1.8k Reviews),Public,"Ahmedabad,Gujrat ",8000,23.02579000000003,72.58727000000005
+226,RSPL Group,4.1,(1.8k Reviews),Private,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+227,Ceat Tyres,4.1,(1.9k Reviews),Public,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+228,State Street Syn...,3.7,(1.8k Reviews),Private,Mumbai ,10000,18.940170000000023,72.83489000000003
+229,Tata AIA Life In...,4.0,(1.8k Reviews),Private,"Mumbai,Maharashtra ",10000,18.940170000000023,72.83489000000003
+230,Tata Teleservice...,4.2,(1.7k Reviews),Public,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+231,ITC Infotech In...,3.6,(1.7k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",19000,12.966180000000065,77.58690000000007
+232,ACC,4.0,(1.8k Reviews),Public,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+233,Ekart Logistics,4.2,(1.7k Reviews),Private,"San Francisco,California ",5000,37.777120000000025,-122.41966999999994
+234,RBL Bank,3.8,(1.7k Reviews),Public,"Mumbai,Maharashtra ",13000,18.940170000000023,72.83489000000003
+235,PNB MetLife,3.7,(1.7k Reviews),Private,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+236,Capita,3.9,(1.8k Reviews),Private,"Indore,Madhya Pradesh ",11000,22.716220000000078,75.86512000000005
+237,Publicis Sapien...,3.8,(1.8k Reviews),Private,"New York,New York ",21000,40.71455000000003,-74.00713999999994
+238,Rivigo,3.8,(1.7k Reviews),Private,"Gurgaon,Haryana ",7000,28.477180000000033,77.06857000000008
+239,Dabur,4.1,(1.7k Reviews),Public,"Ghaziabad,Uttar Pradesh ",6000,28.665350000000046,77.43915000000004
+240,KPIT Technologie...,3.6,(1.7k Reviews),Public,"Pune,Maharashtra ",14000,18.504210000000057,73.85286000000008
+241,Dilip Buildcon,4.1,(1.7k Reviews),Public,"Bhopal,Madhya Pradesh ",7000,23.26466000000005,77.40521000000007
+242,Patanjali Ayurve...,4.1,(1.7k Reviews),Private,"Haridwar,Uttarakhand ",7000,29.947910000000036,78.16025000000008
+243,Kotak Mahindara ...,3.9,(1.7k Reviews),Public,"Mumbai,Maharashtra ",11000,18.940170000000023,72.83489000000003
+244,Biocon Biologics...,3.9,(1.7k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",10000,12.966180000000065,77.58690000000007
+245,IndiGo,3.5,(1.7k Reviews),Private,"Boston,Massachusetts ",9000,42.35866000000004,-71.05673999999993
+246,HDFC Ergo Genera...,4.0,(1.7k Reviews),Public,"Mumbai,Maharashtra ",9000,18.940170000000023,72.83489000000003
+247,Apollo Tyres,4.1,(2k Reviews),Public,"Gurgaon/Gurugram,Haryana ",7000,28.477180000000033,77.06857000000008
+248,Radisson Hotels,3.9,(1.7k Reviews),Private,"Minnetonka,Minnesota ",6000,44.94007000000005,-93.46738999999997
+249,Berger Paints,3.8,(1.8k Reviews),Public,"Kolkata,West Bengal ",7000,22.57059000000004,88.37133000000006
+250,Ola Cabs,3.5,(2.5k Reviews),Private,Bangalore ,10000,12.966180000000065,77.58690000000007
+251,JK Cement,4.2,(1.6k Reviews),Public,"Gurgaon/Gurugram,Haryana ",6000,28.477180000000033,77.06857000000008
+252,GeBBS Healthcare...,3.9,(1.6k Reviews),Private,"Culver City,California ",7000,34.02161000000007,-118.39620999999994
+253,Utkarsh Small Fi...,4.0,(1.6k Reviews),Public,"Varanasi,Uttar Pradesh ",7000,25.33287000000007,82.99655000000007
+254,PolicyBazaar,3.6,(1.6k Reviews),Public,"Gurgaon,Haryana ",9000,28.477180000000033,77.06857000000008
+255,Eureka Forbes,4.0,(1.6k Reviews),Private,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+256,Landmark Group,4.2,(5k Reviews),Private,"Dubai Marina,Dubai ",6000,25.090500000000077,55.14755000000008
+257,Cogent E Service...,3.4,(1.6k Reviews),Private,"Noida,Uttar Pradesh ",6000,28.533420000000035,77.38190000000003
+258,Max Healthcare,4.1,(1.7k Reviews),Partnership,"Delhi/NCR,New Delhi ",6000,28.63095000000004,77.21721000000008
+259,Lifestyle,4.4,(1.8k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",6000,12.966180000000065,77.58690000000007
+260,Aakash Institute,3.7,(1.9k Reviews),Private,"New Delhi,Delhi ",8000,28.63095000000004,77.21721000000008
+261,Aarti Industries,4.2,(1.6k Reviews),Public,"Mumbai,Maharashtra ",9000,18.940170000000023,72.83489000000003
+262,Nestle,4.1,(1.7k Reviews),Public,Vevey ,7000,46.46228000000008,6.842970000000037
+263,Escorts Group,4.2,(1.8k Reviews),Public,"Faridabad,Haryana ",6000,28.39262000000008,77.31268000000006
+264,Reliance Digital,4.3,(1.6k Reviews),Private,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+265,Tata AIG,4.1,(1.6k Reviews),Private,"Mumbai,Maharashtra ",9000,18.940170000000023,72.83489000000003
+266,Persistent Syste...,4.1,(1.6k Reviews),Public,"Pune,Maharashtra ",19000,18.504210000000057,73.85286000000008
+267,R1 RCM,4.0,(1.6k Reviews),Private,"Murray,Utah ",10000,40.66231000000005,-111.88831999999996
+268,Blue Dart Expres...,4.2,(1.7k Reviews),Public,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+269,JMC Projects,4.3,(1.6k Reviews),Public,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+270,AFCONS Infrastru...,4.4,(1.6k Reviews),Partnership,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+271,Mankind Pharma,4.2,(1.8k Reviews),Private,"New Delhi,Delhi ",6000,28.63095000000004,77.21721000000008
+272,HCL Infosystems,3.9,(1.6k Reviews),Public,"Noida,Uttar Pradesh ",9000,28.533420000000035,77.38190000000003
+273,Pfizer,4.2,(4.9k Reviews),Public,"Chennai,Tamil Nadu ",5000,13.083750000000066,80.28256000000005
+274,Life Insurance C...,4.3,(1.5k Reviews),Private,Mumbai ,5000,18.940170000000023,72.83489000000003
+275,Voltas,4.1,(1.6k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+276,Access Healthcar...,4.1,(1.5k Reviews),Private,"Dallas,Texas ",11000,32.77822000000003,-96.79511999999994
+277,I Process Servic...,4.0,(1.5k Reviews),Private,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+278,Delhi Public Sch...,3.9,(1.5k Reviews),Public,"Greater Noida,Uttar Pradesh ",5000,28.487580000000037,77.49572000000006
+279,Paras Hospital,4.7,(1.5k Reviews),Private,"Gurgaon/Gurugram,Haryana ",1000,28.477180000000033,77.06857000000008
+280,Zensar Technolog...,3.9,(1.5k Reviews),Public,"Pune,Maharashtra ",19000,18.504210000000057,73.85286000000008
+281,Birla Sun Life I...,4.2,(1.5k Reviews),Private,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+282,G4S,4.1,(1.5k Reviews),Private,"Gurgaon/Gurugram,Haryana ",4000,28.477180000000033,77.06857000000008
+283,Exide Industries,3.8,(1.5k Reviews),Public,"Kolkata,West Bengal ",6000,22.57059000000004,88.37133000000006
+284,Walmart,4.2,(12.9k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",11000,12.966180000000065,77.58690000000007
+285,Aditya Birla Gro...,4.2,(16k Reviews),"Mumbai,Maharashtra + 193 more",165 years old,7000,,
+286,Fiserv,3.9,(1.5k Reviews),Private,"Brookfield,Wisconsin ",15000,43.057570000000055,-88.12630999999999
+287,Raymond,4.0,(1.8k Reviews),Public,New York ,6000,40.71455000000003,-74.00713999999994
+288,Statestreet HCL ...,3.4,(1.5k Reviews),Private,New Delhi ,11000,28.63095000000004,77.21721000000008
+289,Samsung Electron...,4.2,(1.5k Reviews),Noida + 170 more,,646000,18.776095735718457,100.77393496801147
+290,United Phosphoru...,4.3,(1.5k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+291,Birlasoft,3.8,(1.4k Reviews),Public,"Pune,Maharashtra ",19000,18.504210000000057,73.85286000000008
+292,Lenskart,3.1,(1.4k Reviews),Private,"Delhi,NCT ",6000,28.651950000000056,77.23149000000006
+293,PepsiCo,4.2,(1.5k Reviews),Private,"Harrison,New York ",6000,40.97007000000008,-73.71222999999998
+294,ACT Fibernet,4.1,(1.4k Reviews),Private,"Bengaluru/Bangalore,Karnataka ",5000,12.966180000000065,77.58690000000007
+295,Micro Labs,3.8,(1.4k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",7000,12.966180000000065,77.58690000000007
+296,BHEL,4.2,(1.4k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",4000,12.966180000000065,77.58690000000007
+297,R.R. Donnelley,4.1,(1.4k Reviews),Private,"Chicago,Illinois ",8000,41.884250000000065,-87.63244999999995
+298,PVR Cinemas,4.2,(1.4k Reviews),Public,Gurgaon ,4000,28.477180000000033,77.06857000000008
+299,AGS Health,4.1,(1.4k Reviews),Private,Washington DC ,6000,38.890370000000075,-77.03195999999997
+300,Legato Health Te...,4.1,(1.4k Reviews),LLP,"Bangalore/Bengaluru,Karnataka ",14000,12.966180000000065,77.58690000000007
+301,TVS Supply Chain...,4.1,(1.5k Reviews),"Chennai,Tamil Nadu + 110 more",126 years old,7000,,
+302,Tata Technologie...,3.6,(1.4k Reviews),Private,Singapore ,13000,1.2908800000000724,103.85239000000007
+303,HDFC Sales,4.0,(1.4k Reviews),Private,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+304,Ajanta Pharma,4.0,(1.4k Reviews),Public,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+305,Poonawalla Finco...,4.1,(1.7k Reviews),Public,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+306,Renault-Nissan,4.1,(1.4k Reviews),Private,"Chennai,Tamil Nadu ",7000,13.083750000000066,80.28256000000005
+307,Cholamandalam MS...,4.0,(1.4k Reviews),JV,"Chennai,Tamil Nadu ",5000,13.083750000000066,80.28256000000005
+308,NIIT Technologie...,3.5,(1.4k Reviews),Public,"Noida,Uttar Pradesh ",10000,28.533420000000035,77.38190000000003
+309,Blue Star,4.1,(1.4k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+310,The Himalaya Dru...,4.2,(1.4k Reviews),Private,"San Francisco,California ",5000,37.777120000000025,-122.41966999999994
+311,Mahindra Holiday...,3.7,(1.4k Reviews),Private,"Chennai,Tamil Nadu ",5000,13.083750000000066,80.28256000000005
+312,Britannia,4.1,(1.4k Reviews),Public,"Reading,Reading ",6000,40.33662000000004,-75.92783999999995
+313,Sonalika Tractor...,3.9,(1.4k Reviews),Private,"Hoshiarpur,Punjab ",5000,31.53723000000008,75.91269000000005
+314,Dalmia Bharat Ce...,4.1,(1.4k Reviews),Public,"Delhi/NCR,New Delhi ",6000,28.63095000000004,77.21721000000008
+315,Emcure Pharmaceu...,4.0,(1.5k Reviews),Private,Pune ,6000,18.504210000000057,73.85286000000008
+316,Societe Generale,3.9,(1.4k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",14000,12.966180000000065,77.58690000000007
+317,Johnson Controls,4.0,(2.2k Reviews),Public,Cork ,10000,51.898340000000076,-8.472789999999975
+318,Extramarks Educa...,3.8,(1.4k Reviews),Private,"Noida,Uttar Pradesh ",7000,28.533420000000035,77.38190000000003
+319,Exide Life Insur...,3.7,(1.4k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",7000,12.966180000000065,77.58690000000007
+320,Bajaj Allianz Ge...,4.3,(1.4k Reviews),Pune + 157 more,,5000,18.776095735718457,100.77393496801147
+321,Mahindra Rural H...,4.2,(1.3k Reviews),Public,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+322,Sterling & Wilso...,4.2,(1.3k Reviews),Private,Mumbai ,8000,18.940170000000023,72.83489000000003
+323,TVS Sundram Fast...,3.9,(1.3k Reviews),Public,"Chennai,Tamil Nadu ",5000,13.083750000000066,80.28256000000005
+324,Reliance SMSL,4.1,(1.3k Reviews),Public,Mumbai ,5000,18.940170000000023,72.83489000000003
+325,UNO Minda,4.1,(1.3k Reviews),Gurgaon + 63 more,64 years old,6000,9.49947000000003,76.34228000000007
+326,Shahi Exports,4.1,(1.3k Reviews),Private,"Faridabad,Haryana ",5000,28.39262000000008,77.31268000000006
+327,Yazaki,3.9,(1.3k Reviews),Private,"Tokyo,Tokyo ",5000,35.68945633000004,139.6917160900001
+328,Ambuja Cements,4.0,(1.3k Reviews),Public,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+329,Tech Mahindra Bu...,3.5,(1.3k Reviews),Public,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+330,café Coffee day,4.1,(1.3k Reviews),Private,"Bengaluru,Karnataka ",4000,12.966180000000065,77.58690000000007
+331,Big Bazaar,4.3,(1.3k Reviews),Private,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+332,IGT Solutions,3.6,(1.3k Reviews),Private,"Gurgaon/Gurugram,Haryana ",7000,28.477180000000033,77.06857000000008
+333,Bhushan Power & ...,3.9,(1.3k Reviews),Private,"Delhi/NCR,New Delhi ",4000,28.63095000000004,77.21721000000008
+334,Force Motors,3.4,(1.3k Reviews),Public,"Pune,Maharashtra ",6000,18.504210000000057,73.85286000000008
+335,Indian Navy,4.7,(1.3k Reviews),Private,"Delhi/NCR,Delhi ",3000,28.63409000000007,77.21693000000005
+336,Shriram City,4.1,(1.3k Reviews),Public,"Chennai,Tamil Nadu ",7000,13.083750000000066,80.28256000000005
+337,Honda,4.2,(4.4k Reviews),Private,"Greater Noida,Uttar Pradesh ",5000,28.487580000000037,77.49572000000006
+338,V-Mart,4.4,(1.3k Reviews),Public,"Gurgaon/Gurugram,Haryana ",3000,28.477180000000033,77.06857000000008
+339,Brakes India,4.2,(1.3k Reviews),Partnership,"Chennai,Tamil Nadu ",5000,13.083750000000066,80.28256000000005
+340,Indus Towers,4.0,(1.3k Reviews),Private,"Gurgaon,Haryana ",5000,28.477180000000033,77.06857000000008
+341,CG Power and Ind...,3.8,(1.3k Reviews),Public,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+342,DS Group,4.1,(1.4k Reviews),Private,"Noida,Uttar Pradesh ",4000,28.533420000000035,77.38190000000003
+343,TVS Credit,4.3,(1.3k Reviews),Public,"Chennai,Tamil Nadu ",5000,13.083750000000066,80.28256000000005
+344,Parle Agro,4.3,(1.3k Reviews),Private,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+345,State Street Cor...,3.8,(1.5k Reviews),Private,"Boston,Massachusetts ",15000,42.35866000000004,-71.05673999999993
+346,Sobha,4.0,(1.3k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",6000,12.966180000000065,77.58690000000007
+347,Datamatics Globa...,3.6,(1.7k Reviews),Public,Mumbai ,8000,18.940170000000023,72.83489000000003
+348,Shree Cement,4.3,(1.3k Reviews),Public,"Kolkata,West Bengal ",7000,22.57059000000004,88.37133000000006
+349,JK Tyres,3.9,(1.3k Reviews),Private,New Delhi ,5000,28.63095000000004,77.21721000000008
+350,Thomson Reuters,4.3,(1.3k Reviews),Private,Toronto ,8000,43.65352400000006,-79.38390699999997
+351,Whirlpool,4.2,(1.3k Reviews),Public,Michigan ,6000,44.12519983400006,-84.19669749999997
+352,BlackBuck,4.0,(1.3k Reviews),Private,"Bangalore,Karnataka ",5000,12.966180000000065,77.58690000000007
+353,Reliance Trends,4.3,(1.2k Reviews),Private,"Navi Mumbai,Maharashtra ",4000,19.032750000000078,73.02960000000007
+354,Indiabulls,3.7,(4k Reviews),Public,"Gurgaon/Gurugram,Haryana ",5000,28.477180000000033,77.06857000000008
+355,3i Infotech,3.6,(1.3k Reviews),Public,"Mumbai,Maharashtra ",8000,18.940170000000023,72.83489000000003
+356,Myntra,4.2,(1.4k Reviews),Private,"Bangalore,Karnataka ",6000,12.966180000000065,77.58690000000007
+357,Wockhardt,4.1,(1.7k Reviews),Public,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+358,GVK Emergency Ma...,3.8,(1.2k Reviews),Private,"Hyderabad/Secunderabad,Telangana ",3000,17.442620000000034,78.50195000000008
+359,Lodha group,4.2,(1.2k Reviews),Private,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+360,Tata Motors Fina...,4.3,(1.2k Reviews),Private,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+361,Sterlite Technol...,4.2,(1.2k Reviews),Public,"Pune,Maharashtra ",7000,18.504210000000057,73.85286000000008
+362,Bharti AXA Life ...,3.9,(1.2k Reviews),Private,Mumbai ,5000,18.940170000000023,72.83489000000003
+363,Delphi TVS,4.0,(1.2k Reviews),Private,"Kanchipuram,Tamil Nadu ",4000,12.835150000000056,79.70006000000006
+364,IKS Health,3.5,(1.2k Reviews),Private,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+365,Grasim Industrie...,4.2,(6.4k Reviews),Public,Nagda ,5000,23.45225000000005,75.41830000000004
+366,ICICI Securities,3.7,(1.2k Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+367,BT Group,4.3,(2.5k Reviews),Private,London ,8000,51.507408360000056,-0.12769869299995662
+368,Synechron,4.2,(1.5k Reviews),Private,"New York,New York ",13000,40.71455000000003,-74.00713999999994
+369,GE,4.2,(3.2k Reviews),Private,"Boston,Massachusetts ",7000,42.35866000000004,-71.05673999999993
+370,SRF,4.3,(1.8k Reviews),Public,"Gurgaon/Gurugram,Haryana ",5000,28.477180000000033,77.06857000000008
+371,Mahindra Logisti...,4.1,(1.2k Reviews),Public,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+372,Info Edge,4.0,(1.8k Reviews),Public,"Noida,Uttar Pradesh ",7000,28.533420000000035,77.38190000000003
+373,Endurance Techno...,3.8,(1.2k Reviews),Public,"Aurangabad,Maharashtra ",5000,19.870160000000055,75.34600000000006
+374,Future Generali ...,3.9,(1.2k Reviews),Private,Mumbai ,6000,18.940170000000023,72.83489000000003
+375,Kansai Nerolac P...,3.9,(1.2k Reviews),Public,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+376,Gabriel India,4.3,(1.2k Reviews),Public,"Pune,Maharashtra ",4000,18.504210000000057,73.85286000000008
+377,JCB,4.0,(1.2k Reviews),Private,"Rocester,Staffordshire ",6000,52.951315478000026,-1.8410428959999763
+378,Kalpataru Power ...,4.2,(2.7k Reviews),Public,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+379,Sopra Steria,4.2,(1.3k Reviews),Private,"Paris,Ile-de-France ",10000,48.85717000000005,2.3414000000000215
+380,AXA Business Ser...,3.9,(1.2k Reviews),Private,Paris ,6000,48.85717000000005,2.3414000000000215
+381,Bharat Petroleum,4.1,(1.2k Reviews),Private,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+382,Cadila Pharmaceu...,3.7,(1.2k Reviews),Public,"Ahmedabad,Gujrat ",5000,23.02579000000003,72.58727000000005
+383,Barclays,4.2,(2.8k Reviews),Private,London ,14000,51.507408360000056,-0.12769869299995662
+384,Cybage,4.0,(1.2k Reviews),Private,"Pune,Maharashtra ",12000,18.504210000000057,73.85286000000008
+385,Blinkit,3.8,(1.2k Reviews),Private,"Gurgaon,Haryana ",6000,28.477180000000033,77.06857000000008
+386,Yamaha Motor,3.9,(1.3k Reviews),Private,"Iwata,Shizuoka ",5000,34.71785385000004,137.85150970000007
+387,Shell,4.4,(1.3k Reviews),Public,"London,England ",8000,51.507408360000056,-0.12769869299995662
+388,CSS Corp,3.7,(1.2k Reviews),Private,"San Jose,California ",10000,37.33865000000003,-121.88541999999995
+389,Parle Products,4.0,(1.2k Reviews),Private,Mumbai ,4000,18.940170000000023,72.83489000000003
+390,Sigma Electric M...,3.9,(1.2k Reviews),Private,"Garner,North Carolina ",3000,35.70644000000004,-78.62303999999995
+391,Lucas-TVS,4.0,(1.4k Reviews),Private,"Chennai,Tamil Nadu ",4000,13.083750000000066,80.28256000000005
+392,Tata Capital Fin...,4.2,(1.2k Reviews),Public,Mumbai ,5000,18.940170000000023,72.83489000000003
+393,Power Mech Proje...,3.8,(1.2k Reviews),Public,"Hyderabad/Secunderabad,Telangana ",5000,17.442620000000034,78.50195000000008
+394,XpressBees,4.1,(1.2k Reviews),Private,"Pune,Maharashtra ",5000,18.504210000000057,73.85286000000008
+395,Oberoi Group of ...,4.3,(1.1k Reviews),Private,"Delhi/NCR,Delhi ",3000,28.63409000000007,77.21693000000005
+396,BA Continuum,4.4,(1.1k Reviews),Private,"Gurgaon/Gurugram,Haryana ",9000,28.477180000000033,77.06857000000008
+397,Cromā,4.3,(1.1k Reviews),Private,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+398,Coromandel Inter...,4.2,(1.1k Reviews),Public,"Hyderabad/Secunderabad,Telangana ",5000,17.442620000000034,78.50195000000008
+399,Bureau Veritas,4.0,(1.2k Reviews),Private,La Défense ,5000,48.88822000000005,2.194280000000049
+400,ValueLabs,3.8,(1.1k Reviews),Private,"Hyderabad/Secunderabad,Telangana ",11000,17.442620000000034,78.50195000000008
+401,Karvy Data Manag...,3.5,(1.1k Reviews),Private,"Hyderabad/Secunderabad,Telangana ",4000,17.442620000000034,78.50195000000008
+402,Hyatt Regency,4.3,(1.1k Reviews),Private,"New Delhi,Delhi ",3000,28.63095000000004,77.21721000000008
+403,Syngene Internat...,3.9,(1.1k Reviews),Public,"Bangalore/Bengaluru,Karnataka ",7000,12.966180000000065,77.58690000000007
+404,Piramal Group,4.1,(2k Reviews),Private,Mumbai ,4000,18.940170000000023,72.83489000000003
+405,Jet Airways,4.6,(1.1k Reviews),Public,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+406,IDBI Bank,3.8,(2k Reviews),Public,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+407,Saint-Gobain,4.1,(1.5k Reviews),Private,Paris ,6000,48.85717000000005,2.3414000000000215
+408,Square Yards,3.0,(1.1k Reviews),Private,"Gurgaon,Haryana ",5000,28.477180000000033,77.06857000000008
+409,MetLife,4.4,(1.1k Reviews),Private,New York ,6000,40.71455000000003,-74.00713999999994
+410,Zomato,3.9,(1.2k Reviews),Public,"Gurgaon,Haryana ",9000,28.477180000000033,77.06857000000008
+411,Hindustan Aerona...,4.3,(1.1k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",2000,12.966180000000065,77.58690000000007
+412,Adani Wilmar,4.2,(1.1k Reviews),Public,"Ahmedabad,Gujrat ",4000,23.02579000000003,72.58727000000005
+413,Taj Hotels Resor...,4.3,(1.1k Reviews),"Mumbai,Maharashtra + 62 more",119 years old,3000,,
+414,Narayana Health,4.3,(1.1k Reviews),"Bangalore/Bengaluru,Karnataka + 49 more",22 years old,4000,9.49947000000003,76.34228000000007
+415,Renault Nissan T...,3.8,(1.1k Reviews),Chennai + 11 more,5k-10k Employees (India),9000,29.672660000000064,75.56749000000008
+416,Dr Lal PathLabs,4.2,(1.1k Reviews),Public,"Gurgaon/Gurugram,Haryana ",3000,28.477180000000033,77.06857000000008
+417,RMSI,3.8,(1.1k Reviews),Private,"Noida,Uttar Pradesh ",5000,28.533420000000035,77.38190000000003
+418,Aon,4.0,(1.1k Reviews),Private,London ,4000,51.507408360000056,-0.12769869299995662
+419,CMS Infosystems,3.7,(1.1k Reviews),Private,"Mumbai,Maharashtra ",3000,18.940170000000023,72.83489000000003
+420,Uflex,3.8,(1.2k Reviews),Public,"Noida,Uttar Pradesh ",4000,28.533420000000035,77.38190000000003
+421,Tata Play,4.2,(1.1k Reviews),Public,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+422,Metro,4.2,(1.1k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",3000,12.966180000000065,77.58690000000007
+423,Ninjacart,3.7,(1.1k Reviews),Private,"Bangalore,Karnataka ",4000,12.966180000000065,77.58690000000007
+424,Aircel,4.4,(1.1k Reviews),Private,"Gurgaon/Gurugram,Haryana ",1000,28.477180000000033,77.06857000000008
+425,WABCO,4.0,(1.1k Reviews),Public,Berne ,4000,46.94843000000003,7.44046000000003
+426,MSN Laboratories,4.0,(1.1k Reviews),Private,"Hyderabad/Secunderabad,Telangana ",4000,17.442620000000034,78.50195000000008
+427,Foxconn,4.1,(1.1k Reviews),Private,Taipei ,6000,25.037370000000067,121.56355000000008
+428,Fujitsu,4.1,(1.1k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",10000,12.966180000000065,77.58690000000007
+429,AECOM,4.2,(1.1k Reviews),Private,Dallas ,4000,32.77822000000003,-96.79511999999994
+430,Aavas Financiers...,4.0,(1.1k Reviews),Public,"Jaipur,Rajasthan ",4000,26.925890000000038,75.80676000000005
+431,Vardhman Fabrics,4.1,(1.2k Reviews),Baddi + 51 more,10k-50k Employees (India),4000,29.672660000000064,75.56749000000008
+432,Bharat Financial...,4.2,(1.1k Reviews),Public,Hyderabad ,3000,17.394880000000057,78.47075000000007
+433,Cisco,4.4,(1.2k Reviews),Public,"San Jose,California ",13000,37.33865000000003,-121.88541999999995
+434,Akums Drugs & Ph...,4.0,(1.4k Reviews),Private,"Delhi/NCR,New Delhi ",4000,28.63095000000004,77.21721000000008
+435,Canara HSBC Life...,3.8,(1k Reviews),Government,"Gurgaon/Gurugram,Haryana ",6000,28.477180000000033,77.06857000000008
+436,SGS,4.0,(1k Reviews),Private,"Geneva,Geneva ",4000,46.208330000000046,6.142750000000035
+437,Reckitt Benckise...,4.1,(1k Reviews),Private,"Slough,Slough ",4000,51.50885828000003,-0.5929407609999657
+438,S&P Global,4.3,(1.1k Reviews),Public,"New York City,New York ",8000,40.71455000000003,-74.00713999999994
+439,ElasticRun,3.8,(1k Reviews),Private,"Pune,Maharashtra ",4000,18.504210000000057,73.85286000000008
+440,Dell EMC,4.2,(1.1k Reviews),Private,Hopkinton ,10000,41.490410000000054,-71.78059999999994
+441,ITC Hotels,4.0,(1.1k Reviews),Public,"Kolkata,West Bengal ",4000,22.57059000000004,88.37133000000006
+442,Sify Technologie...,4.0,(1k Reviews),Private,"Chennai,Tamil Nadu ",7000,13.083750000000066,80.28256000000005
+443,Honeywell Automa...,4.0,(1k Reviews),Public,"Morris Plains,New Jersey ",7000,40.826550000000054,-74.47984999999994
+444,Northern Trust O...,4.2,(1k Reviews),Private,"Bangalore/Bengaluru,Karnataka ",9000,12.966180000000065,77.58690000000007
+445,Jindal Stainless,4.2,(1.1k Reviews),Public,"Delhi/NCR,New Delhi ",6000,28.63095000000004,77.21721000000008
+446,Aragen Life Scie...,4.4,(1k Reviews),Private,"Hyderabad/Secunderabad,Telangana ",3000,17.442620000000034,78.50195000000008
+447,SAP,4.4,(1.2k Reviews),Private,"Walldorf,Baden-Württemberg ",10000,49.30263000000008,8.643000000000029
+448,HERE Technologie...,4.0,(1k Reviews),Private,"Eindhoven,North Brabant ",5000,51.435970000000054,5.485330000000033
+449,Dainik Bhaskar G...,4.1,(1k Reviews),Public,"Bhopal,Madhya Pradesh ",4000,23.26466000000005,77.40521000000007
+450,Hindustan Constr...,4.2,(1k Reviews),Public,"Mumbai,Maharashtra ",3000,18.940170000000023,72.83489000000003
+451,Laurus Labs,4.3,(1k Reviews),Public,"Hyderabad/Secunderabad,Telangana ",4000,17.442620000000034,78.50195000000008
+452,Microland,3.8,(1k Reviews),Public,Bangalore ,8000,12.966180000000065,77.58690000000007
+453,Barclays Shared ...,4.2,(1k Reviews),Private,London ,7000,51.507408360000056,-0.12769869299995662
+454,Procter & Gamble,4.2,(1.5k Reviews),Public,"Cincinnati,Ohio ",4000,39.12711000000007,-84.51438999999993
+455,DIVI'S Laborator...,3.7,(1k Reviews),Public,"Hyderabad/Secunderabad,Telangana ",4000,17.442620000000034,78.50195000000008
+456,Reliance General...,3.9,(1k Reviews),Private,"Mumbai,Maharashtra ",6000,18.940170000000023,72.83489000000003
+457,FedEx Express,4.3,(1.2k Reviews),Private,Moon Township ,3000,40.505250000000046,-80.20730999999995
+458,Max Fashion,4.3,(1k Reviews),Private,Abu Dhabi ,3000,24.46918000000005,54.37173000000007
+459,Mother Dairy Fru...,4.2,(1k Reviews),Private,"Noida,Uttar Pradesh ",3000,28.533420000000035,77.38190000000003
+460,Videocon d2h,4.0,(1k Reviews),Public,Mumbai ,1000,18.940170000000023,72.83489000000003
+461,Star Health & Al...,3.9,(1k Reviews),Private,"Chennai,Tamil Nadu ",6000,13.083750000000066,80.28256000000005
+462,suzuki motor guj...,4.2,(1k Reviews),Becharaji + 58 more,,1000,18.776095735718457,100.77393496801147
+463,Kotak Securities,3.8,(998 Reviews),Private,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+464,Citibank,4.1,(998 Reviews),Private,"New York,New York ",11000,40.71455000000003,-74.00713999999994
+465,Johnson & Johnso...,4.2,(1.1k Reviews),Private,"New Brunswick,New Jersey ",4000,40.494770000000074,-74.44383999999997
+466,Cavinkare,4.1,(995 Reviews),Private,"Chennai,Tamil Nadu ",4000,13.083750000000066,80.28256000000005
+467,Coforge,3.8,(994 Reviews),Public,"Noida,Uttar Pradesh ",11000,28.533420000000035,77.38190000000003
+468,Adecco Group,3.9,(1k Reviews),Private,"Zurich,Zurich ",4000,47.37707000000006,8.539560000000051
+469,G R Infraproject...,4.2,(993 Reviews),Public,"Udaipur,Rajasthan ",4000,24.587000000000046,73.69848000000007
+470,SRL Diagnostics,4.1,(996 Reviews),Private,Mumbai ,3000,18.940170000000023,72.83489000000003
+471,Samsung India El...,4.1,(991 Reviews),Noida + 135 more,,1000,18.776095735718457,100.77393496801147
+472,Verizon,4.3,(1k Reviews),Private,"New York City,New York ",8000,40.71455000000003,-74.00713999999994
+473,Kent RO Systems,3.7,(988 Reviews),Private,"Noida,Uttar Pradesh ",4000,28.533420000000035,77.38190000000003
+474,Aforeserve,3.5,(988 Reviews),Private,"Noida,Uttar Pradesh ",4000,28.533420000000035,77.38190000000003
+475,USHA Internation...,4.3,(1k Reviews),Public,"Gurgaon/Gurugram,Haryana ",3000,28.477180000000033,77.06857000000008
+476,Intellect Design...,4.1,(986 Reviews),Public,"Chennai,Tamil Nadu ",8000,13.083750000000066,80.28256000000005
+477,Exl India,3.8,(985 Reviews),New Delhi + 18 more,65 years old,7000,9.49947000000003,76.34228000000007
+478,Sony,4.3,(1.1k Reviews),Public,"Delhi/NCR,Delhi ",3000,28.63409000000007,77.21693000000005
+479,Angel One,3.9,(984 Reviews),Mumbai + 102 more,5k-10k Employees (India),6000,29.672660000000064,75.56749000000008
+480,CMA CGM,4.1,(1.2k Reviews),Private,"Marseille,Marseille ",6000,43.29337000000004,5.371310000000051
+481,Care Health Insu...,3.9,(982 Reviews),Public,"Gurgaon,Haryana ",6000,28.477180000000033,77.06857000000008
+482,Harman Connected...,3.9,(981 Reviews),Private,"Mountain View,California ",12000,37.389710000000036,-122.08156999999994
+483,Inox Leisure,4.1,(979 Reviews),Public,"Mumbai,Maharashtra ",3000,18.940170000000023,72.83489000000003
+484,KONE,4.3,(989 Reviews),Private,"Chennai,Tamil Nadu ",4000,13.083750000000066,80.28256000000005
+485,Philips,4.1,(1.6k Reviews),Private,Amsterdam ,7000,52.36993000000007,4.907880000000034
+486,Novartis,4.1,(1.3k Reviews),Hyderabad/Secunderabad + 52 more,,2000,18.776095735718457,100.77393496801147
+487,Safexpress,4.2,(1.1k Reviews),Private,"Delhi/NCR,Delhi ",4000,28.63409000000007,77.21693000000005
+488,Bank of Baroda,3.8,(1.4k Reviews),Private,"Vadodara/Baroda,Gujrat ",5000,22.299410000000023,73.20812000000006
+489,Panasonic,4.1,(2.1k Reviews),Private,"Kadoma,Osaka ",5000,34.73954259000004,135.5868715800001
+490,Xoriant,4.3,(974 Reviews),Private,"Sunnyvale,California ",7000,37.37187000000006,-122.03748999999999
+491,Quest Global,3.7,(972 Reviews),Private,Singapore ,12000,1.2908800000000724,103.85239000000007
+492,DHL Express,4.2,(2.1k Reviews),Private,Bonn ,4000,50.73242000000005,7.101860000000045
+493,Vedantu,3.4,(971 Reviews),Private,"Bangalore,Karnataka ",7000,12.966180000000065,77.58690000000007
+494,V-Guard Industri...,4.5,(1k Reviews),Public,"Kochi/Cochin,Kerala ",2000,9.936020000000042,76.26141000000007
+495,Tata Elxsi,4.1,(967 Reviews),Public,"Bangalore/Bengaluru,Karnataka ",10000,12.966180000000065,77.58690000000007
+496,Crisil,3.9,(976 Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+497,Allsec Technolog...,3.9,(965 Reviews),Public,"Chennai,Tamil Nadu ",4000,13.083750000000066,80.28256000000005
+498,Amazon Transport...,4.3,(963 Reviews),Private,"Seattle,Washington ",3000,47.60357000000005,-122.32944999999995
+499,NCR Corporation,4.0,(964 Reviews),Private,"Atlanta,Georgia ",6000,33.74831000000006,-84.39110999999997
+500,Jubilant Foods W...,3.8,(957 Reviews),Public,"Noida,Uttar Pradesh ",5000,28.533420000000035,77.38190000000003
+501,Exotic Learning,4.6,(956 Reviews),Private,"Lucknow,Uttar Pradesh ",232000,26.85471000000007,80.92135000000007
+502,Citicorp,3.8,(956 Reviews),Private,"Mumbai,Maharashtra ",12000,18.940170000000023,72.83489000000003
+503,Innovsource Serv...,4.1,(954 Reviews),Private,"Mumbai,Maharashtra ",3000,18.940170000000023,72.83489000000003
+504,Narayana Educati...,3.8,(952 Reviews),Private,"Hyderabad/Secunderabad,Telangana ",3000,17.442620000000034,78.50195000000008
+505,YASH Technologie...,4.0,(951 Reviews),Private,"East Moline,Illinois ",11000,41.515360000000044,-90.43905999999998
+506,Badve Engineerin...,3.9,(949 Reviews),Private,"Aurangabad,Maharashtra ",5000,19.870160000000055,75.34600000000006
+507,HCL Technologies...,3.7,(949 Reviews),Private,Noida ,6000,28.533420000000035,77.38190000000003
+508,DBS Bank,3.9,(949 Reviews),Private,"Hyderabad/Secunderabad,Telangana ",8000,17.442620000000034,78.50195000000008
+509,FactSet,4.0,(947 Reviews),Private,"Norwalk,Connecticut ",6000,41.11366000000004,-73.40764999999993
+510,Medanta the Medi...,4.2,(946 Reviews),Private,Gurgaon ,3000,28.477180000000033,77.06857000000008
+511,TCE,3.7,(952 Reviews),Private,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+512,Marriott Interna...,4.2,(3.2k Reviews),Private,"Bethesda,Maryland ",4000,38.98637000000008,-77.09691999999995
+513,Emami,4.1,(971 Reviews),Public,"Kolkata,West Bengal ",4000,22.57059000000004,88.37133000000006
+514,Iksula,4.1,(942 Reviews),LLP,"Mumbai,Maharashtra ",2000,18.940170000000023,72.83489000000003
+515,Ocwen Financial ...,4.2,(939 Reviews),Private,"West Palm Beach,Florida ",4000,26.71440000000007,-80.05328999999995
+516,Biological E,4.3,(939 Reviews),Private,"Hyderabad/Secunderabad,Telangana ",4000,17.442620000000034,78.50195000000008
+517,BT Global Servic...,4.2,(936 Reviews),Private,London ,5000,51.507408360000056,-0.12769869299995662
+518,USV,4.1,(932 Reviews),Private,"Mumbai,Maharashtra ",3000,18.940170000000023,72.83489000000003
+519,KFC,4.2,(931 Reviews),Private,"Louisville,Kentucky ",2000,38.254890000000046,-85.76665999999994
+520,HDFC Securities,3.7,(931 Reviews),Public,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+521,Honeywell Techno...,3.9,(930 Reviews),Private,"Bangalore/Bengaluru,Karnataka ",10000,12.966180000000065,77.58690000000007
+522,Medi Assist Indi...,3.8,(929 Reviews),Private,"Bangalore,Karnataka ",4000,12.966180000000065,77.58690000000007
+523,Motherson Automo...,3.8,(3.7k Reviews),Private,Noida ,4000,28.533420000000035,77.38190000000003
+524,Toyota Kirloskar...,4.3,(925 Reviews),Private,"Bangalore/Bengaluru,Karnataka ",2000,12.966180000000065,77.58690000000007
+525,Tesco,4.1,(1k Reviews),Private,Hertfordshire ,6000,51.82974000000007,-0.21698999999995294
+526,Orange Business ...,4.3,(923 Reviews),Private,Paris ,7000,48.85717000000005,2.3414000000000215
+527,Hero FinCorp,4.3,(921 Reviews),Private,Delhi ,4000,28.63409000000007,77.21693000000005
+528,ISS Facility Ser...,4.3,(921 Reviews),Private,Copenhagen ,3000,55.67567000000008,12.567560000000071
+529,Varroc Group,3.8,(1.6k Reviews),Public,Aurangabad ,4000,19.870160000000055,75.34600000000006
+530,Sitel,3.9,(1.1k Reviews),Private,"Miami,Florida ",3000,25.77481000000006,-80.19772999999998
+531,iOPEX Technologi...,4.1,(946 Reviews),Private,"Chennai,Tamil Nadu ",2000,13.083750000000066,80.28256000000005
+532,Hindustan Petrol...,4.3,(918 Reviews),Government,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+533,Fincare Small Fi...,4.0,(918 Reviews),Bangalore + 222 more,15 years old,5000,9.49947000000003,76.34228000000007
+534,Torrent Power,3.9,(933 Reviews),Public,"Ahmedabad,Gujrat ",4000,23.02579000000003,72.58727000000005
+535,NTPC,4.1,(1.5k Reviews),Private,"Delhi/NCR,Delhi ",2000,28.63409000000007,77.21693000000005
+536,ISGEC,3.9,(916 Reviews),Public,"Noida,Uttar Pradesh ",5000,28.533420000000035,77.38190000000003
+537,L.G.Balakrishnan...,3.8,(915 Reviews),Public,"Coimbatore,Tamil Nadu ",4000,10.994160000000022,76.96629000000007
+538,Nayara Energy,4.2,(912 Reviews),Private,"Mumbai,Maharashtra ",4000,18.940170000000023,72.83489000000003
+539,VLCC,4.1,(910 Reviews),Private,"Delhi/NCR,New Delhi ",3000,28.63095000000004,77.21721000000008
+540,Punj Lloyd,4.3,(909 Reviews),Public,"Gurgaon/Gurugram,Haryana ",2000,28.477180000000033,77.06857000000008
+541,Satin Creditcare...,4.2,(908 Reviews),Public,"Gurgaon/Gurugram,Haryana ",3000,28.477180000000033,77.06857000000008
+542,Faurecia,4.0,(988 Reviews),Private,Nanterre ,4000,48.88822000000005,2.194280000000049
+543,Motilal Oswal Fi...,3.6,(906 Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+544,XL Dynamics,3.6,(906 Reviews),Private,Navi Mumbai ,2000,19.032750000000078,73.02960000000007
+545,Fortis Healthcar...,4.1,(2.1k Reviews),Public,"Gurgaon/Gurugram,Haryana ",5000,28.477180000000033,77.06857000000008
+546,Mercedes-Benz Re...,4.0,(952 Reviews),Public,"Bengaluru/Bangalore,Karnataka ",9000,12.966180000000065,77.58690000000007
+547,Relaxo Footwear,4.1,(901 Reviews),Public,"New Delhi,Delhi ",3000,28.63095000000004,77.21721000000008
+548,Adani Power,4.1,(1.1k Reviews),Public,"Ahmedabad,Gujrat ",4000,23.02579000000003,72.58727000000005
+549,First American C...,4.0,(1.3k Reviews),Private,"Santa Ana,California ",6000,33.74958000000004,-117.87445999999994
+550,The Jaypee Group,4.1,(1.5k Reviews),Public,"Noida,Uttar Pradesh ",3000,28.533420000000035,77.38190000000003
+551,Trident Group,3.8,(928 Reviews),Public,"Ludhiana,Punjab ",3000,30.907260000000065,75.84920000000005
+552,Akzo Nobel India,4.1,(901 Reviews),Public,Amsterdam ,3000,52.36993000000007,4.907880000000034
+553,Aditya Birla Cap...,4.0,(1.9k Reviews),Public,Mumbai ,6000,18.940170000000023,72.83489000000003
+554,Mercer,3.9,(889 Reviews),Private,"New York,New York ",6000,40.71455000000003,-74.00713999999994
+555,DHL Supply Chain,4.2,(889 Reviews),Private,Bonn ,3000,50.73242000000005,7.101860000000045
+556,Edelweiss,3.9,(981 Reviews),Public,"Mumbai,Maharashtra ",7000,18.940170000000023,72.83489000000003
+557,ZS,3.8,(884 Reviews),Private,"Evanston,Illinois ",9000,42.05702000000008,-87.68644999999998
+558,NIIT,3.7,(884 Reviews),Public,Gurgaon/Gurugram ,4000,28.477180000000033,77.06857000000008
+559,J. Kumar Infrapr...,4.1,(877 Reviews),Public,"Mumbai,Maharashtra ",3000,18.940170000000023,72.83489000000003
+560,Trent,4.2,(1.6k Reviews),Public,"Mumbai,Maharashtra ",3000,18.940170000000023,72.83489000000003
+561,L&T Energy Hydro...,3.9,(864 Reviews),Private,"Mumbai,Maharashtra ",5000,18.940170000000023,72.83489000000003
+562,Straive,3.8,(863 Reviews),Private,Singapore ,5000,1.2908800000000724,103.85239000000007
+563,Bayer,4.3,(1.2k Reviews),Public,"Monheim Am Rhein,North Rhine-westphalia ",2000,51.09143000000006,6.889160000000061
+564,Security and Int...,4.2,(861 Reviews),Public,"Delhi/NCR,Delhi ",3000,28.63409000000007,77.21693000000005
+565,Serco,4.3,(859 Reviews),Private,Hook ,1000,51.368203040000026,-0.3126174769999466
+566,Bata,4.0,(859 Reviews),Public,Lausanne ,3000,46.519600000000025,6.632220000000075
+567,Swaraj Tractors,4.4,(856 Reviews),"Mumbai,Maharashtra + 104 more",60 years old,3000,9.49947000000003,76.34228000000007
+568,Fabindia,4.1,(856 Reviews),Private,"Delhi/NCR,Delhi ",3000,28.63409000000007,77.21693000000005
